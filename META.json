@@ -56,7 +56,7 @@
    "provides" : {
       "MooseX::Role::HTML::Grabber" : {
          "file" : "lib/MooseX/Role/HTML/Grabber.pm",
-         "version" : "0.001"
+         "version" : "0.002"
       }
    },
    "release_status" : "stable",
@@ -68,10 +68,10 @@
       "homepage" : "https://metacpan.org/release/MooseX-Role-HTML-Grabber",
       "repository" : {
          "type" : "git",
-         "url" : "git://github.com/dagolden/moosex-role-html-grabber.git",
-         "web" : "https://github.com/dagolden/moosex-role-html-grabber"
+         "url" : "git://github.com/trcjr/moosex-role-html-grabber.git",
+         "web" : "https://github.com/trcjr/moosex-role-html-grabber"
       }
    },
-   "version" : "0.001"
+   "version" : "0.002"
 }
 
